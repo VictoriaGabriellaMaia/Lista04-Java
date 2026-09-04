@@ -48,7 +48,7 @@ public class Questao2 {
 
             System.out.println("Menor nota: " + menorNota);
             System.out.println("Média das notas: " + media);
-            System.out.println("Maior nota: " + maiorNota);
+            System.out.prinfeat: calcula estatísticas de notas com repetição e validação do-while em Javatln("Maior nota: " + maiorNota);
         }
 
         input.close();
